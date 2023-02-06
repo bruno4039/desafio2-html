@@ -1,0 +1,33 @@
+body{
+    padding:0;
+}
+
+.wrapper{
+    width:1200px;
+    display:flexível;
+    padding:0 automático;
+    background-color:água- marinha;
+}
+.principal{
+    display:flexível;
+    flex-flow:coluna;
+    width:85%;
+}
+.menu{
+    width:15%;
+    background-color:aqua;
+    margin:10px 20px 0px;
+}
+.cabeçalho{
+    background-color:rgb( 5 ,  108 ,  108 );
+    min-height:150 px;
+}
+.conteudo{
+    background-color:branco;
+    min-height:300 px;
+    margin:20 px;
+}
+.rodapé{
+    background-color:rgb( 99 ,  56 ,  240 );
+    min-height:150 px ;
+}
